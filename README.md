@@ -1,5 +1,5 @@
-# grout
+# Grout
 
-grinding until the pattern shows.
+Grinding until the pattern shows.
 
-problems worked through in python, loosely organized by topic.
+Problems worked through in python, loosely organized by topic.
